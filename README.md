@@ -7,5 +7,6 @@ Curated by Dirk and Thomas.
 
 ## Topics
 
+- [C++](cpp.md)
 - [Git](git.md)
 - [Python](python.md)
