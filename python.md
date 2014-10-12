@@ -11,3 +11,7 @@
 ## Generate Executable
 
 - [Nuitka](https://pypi.python.org/pypi/Nuitka/0.5.4.3)
+
+## Audio
+
+- [pyDUB](http://pydub.com/)
