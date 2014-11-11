@@ -7,6 +7,12 @@ Curated by Dirk and Thomas.
 
 ## Topics
 
+### Programming
+
 - [C++](cpp.md)
 - [Git](git.md)
 - [Python](python.md)
+
+### Science
+
+- [Mathematics](math.md)
